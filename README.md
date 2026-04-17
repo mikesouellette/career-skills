@@ -18,7 +18,7 @@ A Claude Code toolkit for evaluating job postings against your personal career p
 
 - [Claude Code](https://claude.ai/code) (CLI or desktop app)
 - Python 3.8+ (stdlib only — no `pip install` needed)
-- `/submit` and `/liveness` require the optional tracker API running at `http://127.0.0.1:8000`
+- `/submit` and `/liveness` require the optional [JobSearchLog](https://github.com/mikesouellette/JobSearchLog) running at `http://127.0.0.1:8000`
 
 ## Setup
 
