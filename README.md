@@ -23,7 +23,7 @@ A Claude Code toolkit for evaluating job postings against your personal career p
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/career-skills.git
+git clone https://github.com/mikesouellette/career-skills.git
 cd career-skills
 ```
 
