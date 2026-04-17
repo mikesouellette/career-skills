@@ -1,0 +1,35 @@
+# Personal data — each user maintains their own
+data/bio.md
+data/positions.md
+
+# Claude Code local settings (user-specific permissions and overrides)
+.claude/settings.local.json
+.claude/projects/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Temp files written by slash commands
+/tmp/
+
+# Environment variables
+.env
+.env.*
