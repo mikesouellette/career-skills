@@ -1,4 +1,4 @@
-# career-skills
+# career-tools
 
 A Claude Code toolkit for evaluating job postings against your personal career profile. Uses custom slash commands and a lightweight Python scraper — no external dependencies required.
 
@@ -23,8 +23,8 @@ A Claude Code toolkit for evaluating job postings against your personal career p
 ## Setup
 
 ```bash
-git clone https://github.com/mikesouellette/career-skills.git
-cd career-skills
+git clone https://github.com/mikesouellette/career-tools.git
+cd career-tools
 ```
 
 Open the project in Claude Code, then run:
